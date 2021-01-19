@@ -255,8 +255,8 @@ h6 {
 
 @media (max-width: 750px) {
   .hero-text {
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 45px;
+    line-height: 45px;
   }
 }
 
@@ -490,8 +490,8 @@ h6 {
 
 @media (max-width: 750px) {
   .about-text {
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 45px;
+    line-height: 45px;
   }
 }
 
@@ -662,8 +662,8 @@ h6[data-scroll="in"] .char {
 
 @media (max-width: 750px) {
   .email {
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 45px;
+    line-height: 45px;
   }
 }
 
@@ -867,18 +867,18 @@ h6[data-scroll="in"] .char {
 
 @media (max-height: 420px) and (max-width: 900px) {
   .hero-text {
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 45px;
+    line-height: 45px;
   }
 
   .about-text {
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 45px;
+    line-height: 45px;
   }
 
   .email {
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 45px;
+    line-height: 45px;
   }
 
   .footer-text {

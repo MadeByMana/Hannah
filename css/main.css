@@ -323,8 +323,6 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
-  font-family: sans-serif;
   margin-left: 100px;
 }
 
@@ -339,7 +337,7 @@ h6 {
 @media (max-width: 900px) {
   .work,
   .gallery {
-    height: 80vh;
+    height: 50vh;
     margin-top: 5vh;
     margin-bottom: 5vh;
   }
@@ -453,6 +451,18 @@ h6 {
 }
 
 @media (max-width: 900px) {
+  .about {
+    height: 80vh;
+  }
+
+  .about-container {
+    margin-left: 0vw;
+  }
+
+  .about-hero {
+    padding-top: 0vh;
+  }
+
   .about-text {
     width: 90vw;
     padding-top: 0px;
@@ -472,7 +482,7 @@ h6 {
   .about-column {
     height: 15vh;
     margin-right: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     width: 70vw;
   }
 

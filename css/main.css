@@ -6,7 +6,7 @@ body {
 @font-face {
   font-family: "Canela";
   src: local("Canela Light"), local("Canela-Light"),
-    url("Canela.woff2") format("woff2"), url("Canela.woff") format("woff");
+    url("../fonts/Canela.woff2") format("woff2"), url("../fonts/Canela.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
